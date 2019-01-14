@@ -1,0 +1,7 @@
+D:\Dev\Tricky\Tricky\bin\Release\Tricky.exe.config
+D:\Dev\Tricky\Tricky\bin\Release\Tricky.exe
+D:\Dev\Tricky\Tricky\bin\Release\Tricky.pdb
+D:\Dev\Tricky\Tricky\obj\Release\Tricky.csprojAssemblyReference.cache
+D:\Dev\Tricky\Tricky\obj\Release\Tricky.csproj.CoreCompileInputs.cache
+D:\Dev\Tricky\Tricky\obj\Release\Tricky.exe
+D:\Dev\Tricky\Tricky\obj\Release\Tricky.pdb
